@@ -1,0 +1,6 @@
+Login - https://www.figma.com/design/I6XQ62Us8x8MfszNdUBFHU/1_Login?node-id=2-2&m=dev&t=kX9i7rv9bXuWe5fy-1
+Registro Login - https://www.figma.com/design/DxafRrUI9tmHr2QkjMGXod/2_RegistroLogin?node-id=0-1&m=dev&t=kX9i7rv9bXuWe5fy-1
+Cadastrar Aula - https://www.figma.com/design/viIVcdYsw6DkBsxUsY4xjs/3_cadastrarAula?m=dev&t=kX9i7rv9bXuWe5fy-1
+Selecionar classe - https://www.figma.com/design/hi3l4nbx5Kto9nltshKg4a/4_SelecaoDeClasse?node-id=0-1&m=dev&t=kX9i7rv9bXuWe5fy-1
+Presença nas aulas - https://www.figma.com/design/izDd9EQjepVpXTVU2EZcvM/5_RegistroDePresenca?m=dev&t=kX9i7rv9bXuWe5fy-1
+Visão Geral - https://www.figma.com/design/yh5fEVrcuGDfMUJNEQ218s/6_VisaoGeral?m=dev&t=kX9i7rv9bXuWe5fy-1
