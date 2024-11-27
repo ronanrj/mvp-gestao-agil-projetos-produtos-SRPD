@@ -1,5 +1,5 @@
 
-# Projeto Gestão de Aulas e Frequência em Autoescolas
+# Projeto Sistema de Registro de Presença Digital
 
 Este documento apresenta o cenário do ambiente de negócios e a estrutura do time Scrum para o desenvolvimento de um MVP (Produto Mínimo Viável).
 
