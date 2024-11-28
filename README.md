@@ -3,6 +3,9 @@
 
 Este documento apresenta o cenário do ambiente de negócios e a estrutura do time Scrum para o desenvolvimento de um MVP (Produto Mínimo Viável).
 
+### Links Apresentacao
+- https://www.youtube.com/watch?v=RARIW7ptk2Q
+
 ### Links Miro
 - https://miro.com/app/board/uXjVLBrcxEQ=/?share_link_id=625789151206
 
